@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Goofy Pics</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="close_meme_activity">Close Meme Activity</string>
+    <string name="save_meme_photo">Save Meme Photo</string>
+    <string name="first_line_of_text">First line of text…</string>
+    <string name="second_line_of_text">Second line of text…</string>
+    <string name="text_size">Text Size</string>
+    <string name="text_color">Text Color</string>
+    <string name="choose_font">Choose Font</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+
+    <string-array name="fonts">
+        <item>Baloo</item>
+        <item>Creepster</item>
+        <item>Faster One</item>
+        <item>Holtwood</item>
+        <item>Nosifer</item>
+        <item>Permanent Marker</item>
+    </string-array>
+
+    <string-array name="fonts_adapter">
+        <item>baloo</item>
+        <item>creepster</item>
+        <item>faster_one</item>
+        <item>holtwood_one_sc</item>
+        <item>nosifer</item>
+        <item>permanent_marker</item>
+    </string-array>
+
+</resources>
